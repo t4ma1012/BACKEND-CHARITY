@@ -1,0 +1,6 @@
+50 CK (Đồ án) + 30 QT (seminar + điểm danh) + 20 TH (6 lab)
+làm 1 github và chấm chéo lẫn nhau
+lên trình bày 5p về đề tài sau tết, tính vào điểm QT< tất cả chữc năng, feature, DB, pro5, demo thì càng tốt, 
+lấy khảo sát cả lớp, 20% là điểm của bạn, 80% của thầy, 
+13/3 (hoặc 12/3) báo cáo lần 1: gồm kiến trúc, code bằng ngôn ngữ gì, DB, function nào
+
